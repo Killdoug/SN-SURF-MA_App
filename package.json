@@ -1,0 +1,19 @@
+{
+  "name": "x-snc-ma-app25",
+  "version": "1.0.0",
+  "description": "App to help process the onboardin fo personnal from MA",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.0.0",
+    "@servicenow/glide": "26.0.1",
+    "eslint": "8.50.0",
+    "@servicenow/eslint-plugin-sdk-app-plugin": "4.0.0",
+    "typescript": "5.5.4"
+  }
+}

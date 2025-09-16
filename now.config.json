@@ -1,0 +1,6 @@
+{
+  "scope": "x_snc_ma_app25",
+  "scopeId": "b3bf50d9eb007210507df558bad0cd2c",
+  "name": "MA App",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
